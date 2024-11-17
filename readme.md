@@ -33,16 +33,14 @@ Este repositório fornece uma estrutura modular e organizada para acelerar o des
 Execute o comando abaixo no terminal para baixar o template para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/express-ejs-template.git
+git clone https://github.com/LucasUltremare/Express-Starter.git
 ```
-
-Substitua `seu-usuario` pelo nome do usuário ou organização no GitHub.
 
 ### 2. Instale as Dependências
 Navegue para a pasta do projeto clonado e instale as dependências necessárias:
 
 ```bash
-cd express-ejs-template
+cd Express-Starter
 npm install
 ```
 
